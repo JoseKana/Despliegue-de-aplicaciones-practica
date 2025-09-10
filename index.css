@@ -1,0 +1,12 @@
+nav a {
+flex: 1;
+text-align: center;
+}
+@media (max-width: 576px) {
+main {
+flex-direction: column;
+}
+}
+.img-fluid{
+    width: 500px;
+}
