@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+.submenu {
+  display: none;
+  flex-direction: column;
+  position: absolute;
+  background: white;
+  border: 1px solid black;
+}
+.has-submenu:hover .submenu {
+  display: flex;
+}

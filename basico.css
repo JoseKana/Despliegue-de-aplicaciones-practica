@@ -1,0 +1,10 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    border: 1px solid #ccc;
+    background-color: rgb(235, 191, 191);
+    flex-direction: column;
+    text-align: center;
+}
